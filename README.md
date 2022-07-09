@@ -1,5 +1,5 @@
-# primeirospassos-ordenacao-list
-Primeiros Passos Ordenação List
+# PrimeirosPassos-Ordenacao-list
+Trabalhando com Collections Java Ordenação de elementos em uma coleção List
 ##  package primeirospassosordenaçãolist.com.br;
 
 /*Dadas as seguintes informações sobre meus gatos, crie uma lista
